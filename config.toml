@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hello Hugo!"
+title = "Hello Platform.sh!"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
