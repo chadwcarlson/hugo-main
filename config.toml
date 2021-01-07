@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "A simple Hugo template for Platform.sh"
+    description = "A simple Hugo template for Platform.sh - now integrated!"
     githubUsername = "#"
     accent = "blue"
     showBorder = true
